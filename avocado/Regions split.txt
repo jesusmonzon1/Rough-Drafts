@@ -1,0 +1,72 @@
+Total U.S.              314
+
+REGIONS
+California              314
+West                    314
+Plains                  314
+South Central           314
+Great Lakes             314
+Northeast               314
+Midsouth                314
+Southeast               314
+
+REGIONS (Cities)
+California              314
+	San Diego               314
+	Los Angeles             314
+	San Francisco           314
+	Sacramento              314
+West                    314
+	Boise                   314
+	Las Vegas               314
+	Spokane                 314
+	Denver                  314
+	Seattle                 314
+	Phoenix/Tucson          314
+	Portland                314
+	West Tex/New Mexico     314
+Plains                  314
+	St. Louis               314
+South Central           314
+	New Orleans/Mobile      314
+	Dallas/Ft. Worth        314
+	Houston                 314
+Great Lakes             314
+	Indianapolis            314
+	Cincinnati/Dayton       314
+	Detroit                 314
+	Columbus                314
+	Grand Rapids            314
+	Chicago                 314
+Northeast               314
+	Harrisburg/Scranton     314
+	Boston                  314
+	Syracuse                314
+	Philadelphia            314
+	Buffalo/Rochester       314
+	Albany                  314
+	Pittsburgh              314
+	New York                314
+	Hartford/Springfield    314
+	Northern New England    314
+	
+Midsouth                314
+	Charlotte               314
+	Raleigh/Greensboro      314
+	Roanoke                 314
+	Baltimore/Washington    314
+	Richmond/Norfolk        314
+	Louisville              314
+	South Carolina          314
+	Nashville               314
+	
+Southeast               314
+	Tampa                   314
+	Orlando                 314
+	Atlanta                 314
+	Jacksonville            314
+	Miami/Ft. Lauderdale    314
+
+
+
+
