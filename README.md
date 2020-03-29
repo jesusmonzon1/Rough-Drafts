@@ -1,3 +1,3 @@
 # Rough-Drafts
-I am a self-taught python user. Using textbooks & youtube tutorials I grow my skills and here is where I practice my knowledge.
+I am a self-taught python user. My resources are python books, stackoverflow and youtube. Here is where I practice my knowledge.
  
